@@ -20,8 +20,6 @@ module.exports = {
         hot: true,
         static: './'
     },
-
-
     module: {
         rules: [
             {
@@ -75,7 +73,6 @@ module.exports = {
                 { from: "audio", to: "audio" }
             ],
         }),
-
         // new BundleAnalyzerPlugin(),
     ],
 
