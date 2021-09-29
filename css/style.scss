@@ -1,0 +1,19 @@
+.header {
+    color: red;
+    font-size:95px
+    }
+
+.pictures {
+    height:250px;
+    width: 400px; 
+}
+.content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.photos {
+    margin-left: 20px;
+    margin-right: 20px;
+}

@@ -1,0 +1,26 @@
+.header {
+  color: red;
+  font-size: 95px;
+}
+
+.pictures {
+  height: 250px;
+  width: 400px;
+}
+
+.content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.photos {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+/*# sourceMappingURL=style.css.map */
