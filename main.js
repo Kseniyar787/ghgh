@@ -10,7 +10,7 @@ let data = [
     { id: 6, title: 'Пение птиц', path: "audio/2.mp3", type: "audio" },
     { id: 7, title: 'Пение птиц', path: "audio/3.mp3", type: "audio" },
     { id: 8, title: 'Пение птиц', path: "video/1.mp4", type: "video" },
-    { id: 9, title: 'Пение птиц', path: "video/2.mp4", type: "video" },
+
 ];
 const renderProduct = (card) => {
     if (card.type === "img") {
